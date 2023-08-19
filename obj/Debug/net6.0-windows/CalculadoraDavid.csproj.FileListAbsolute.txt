@@ -1,0 +1,30 @@
+C:\Users\user-pc\Desktop\CalculadoraDavid\bin\Debug\net6.0-windows\CalculadoraDavid.exe
+C:\Users\user-pc\Desktop\CalculadoraDavid\bin\Debug\net6.0-windows\CalculadoraDavid.deps.json
+C:\Users\user-pc\Desktop\CalculadoraDavid\bin\Debug\net6.0-windows\CalculadoraDavid.runtimeconfig.json
+C:\Users\user-pc\Desktop\CalculadoraDavid\bin\Debug\net6.0-windows\CalculadoraDavid.dll
+C:\Users\user-pc\Desktop\CalculadoraDavid\bin\Debug\net6.0-windows\CalculadoraDavid.pdb
+C:\Users\user-pc\Desktop\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.csproj.AssemblyReference.cache
+C:\Users\user-pc\Desktop\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.csproj.GenerateResource.cache
+C:\Users\user-pc\Desktop\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user-pc\Desktop\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.AssemblyInfoInputs.cache
+C:\Users\user-pc\Desktop\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.AssemblyInfo.cs
+C:\Users\user-pc\Desktop\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Desktop\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.dll
+C:\Users\user-pc\Desktop\CalculadoraDavid\obj\Debug\net6.0-windows\refint\CalculadoraDavid.dll
+C:\Users\user-pc\Desktop\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.pdb
+C:\Users\user-pc\Desktop\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.genruntimeconfig.cache
+C:\Users\user-pc\Desktop\CalculadoraDavid\obj\Debug\net6.0-windows\ref\CalculadoraDavid.dll
+C:\Users\user-pc\Desktop\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.Calculadora.resources
+C:\Users\user-pc\Desktop\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.VIXO 1900 Pluss.resources
+C:\Users\user-pc\Desktop\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.Properties.Resources.resources
+C:\Users\user-pc\Desktop\tareas Esucomex\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.csproj.AssemblyReference.cache
+C:\Users\user-pc\Desktop\tareas Esucomex\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.Calculadora.resources
+C:\Users\user-pc\Desktop\tareas Esucomex\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.Properties.Resources.resources
+C:\Users\user-pc\Desktop\tareas Esucomex\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.csproj.GenerateResource.cache
+C:\Users\user-pc\Desktop\tareas Esucomex\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user-pc\Desktop\tareas Esucomex\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.AssemblyInfoInputs.cache
+C:\Users\user-pc\Desktop\tareas Esucomex\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.AssemblyInfo.cs
+C:\Users\user-pc\Desktop\tareas Esucomex\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Desktop\tareas Esucomex\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.dll
+C:\Users\user-pc\Desktop\tareas Esucomex\CalculadoraDavid\obj\Debug\net6.0-windows\refint\CalculadoraDavid.dll
+C:\Users\user-pc\Desktop\tareas Esucomex\CalculadoraDavid\obj\Debug\net6.0-windows\CalculadoraDavid.pdb

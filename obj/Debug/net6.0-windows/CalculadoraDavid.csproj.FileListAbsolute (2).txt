@@ -1,0 +1,8 @@
+C:\Users\user-pc\Desktop\obj\Debug\net6.0-windows\CalculadoraDavid.csproj.AssemblyReference.cache
+C:\Users\user-pc\Desktop\obj\Debug\net6.0-windows\CalculadoraDavid.Calculadora.resources
+C:\Users\user-pc\Desktop\obj\Debug\net6.0-windows\CalculadoraDavid.CalculadoraDavid.VIXO 1900 Pluss.resources
+C:\Users\user-pc\Desktop\obj\Debug\net6.0-windows\CalculadoraDavid.csproj.GenerateResource.cache
+C:\Users\user-pc\Desktop\obj\Debug\net6.0-windows\CalculadoraDavid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user-pc\Desktop\obj\Debug\net6.0-windows\CalculadoraDavid.AssemblyInfoInputs.cache
+C:\Users\user-pc\Desktop\obj\Debug\net6.0-windows\CalculadoraDavid.AssemblyInfo.cs
+C:\Users\user-pc\Desktop\obj\Debug\net6.0-windows\CalculadoraDavid.csproj.CoreCompileInputs.cache
